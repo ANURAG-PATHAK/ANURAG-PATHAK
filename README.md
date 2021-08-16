@@ -28,7 +28,7 @@
   </p>
   <br>
   <p>
-    I am a <b> open source enthusiast </b>. I am in my <b> freshman year </b>  of <b> Btech </b>.
+    I am an <b> open source enthusiast </b>. I am in my <b> freshman year </b>  of <b> Btech </b>.
     I am pursuing my Btech from <b> GL Bajaj Institute of Technology and Management, Greater Noida </b>.
     <br>
     <br>
