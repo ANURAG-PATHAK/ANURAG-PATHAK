@@ -1,4 +1,4 @@
-<html>
+<html>   
 <body>
   <img src = https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/BANNER.png />
   <h1> <p align ="center"> Hello!! 👋🏻✌🏻 😁😁<br> I am Anurag Pathak </p> </h1>
@@ -33,5 +33,10 @@
     <br>
     <br>
     I want to contribute in Java applications, Web-Technologies, and C++ applications. 
+    <br>
+    <br>
+    <img align = left src = "https://github-readme-stats-anurag-pathak.vercel.app/api?username=ANURAG-PATHAK&show_icons=true&hide_border=true" />
+    <br>
+    <img align = right src = https://github-readme-stats-anurag-pathak.vercel.app/api/top-langs?username=ANURAG-PATHAK&layout=compact />
 </body>
 </html>
