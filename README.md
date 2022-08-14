@@ -2,6 +2,7 @@
 <body>
   <h1> <p align ="center"> Hello!! 👋🏻✌🏻 😁😁<br> I am Anurag Pathak </p> </h1>
   <img src = https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/BANNER.png />
+  https://api.daily.dev/devcards/4f8af0cadd45413fb3c02434a170b417.png?r=xu4
   <p align = center > 
     <a href = https://www.linkedin.com/in/anurag-pathak-41807b17a > 
     <img src = https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/icons8-linkedin.svg />
