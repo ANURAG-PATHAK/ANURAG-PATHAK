@@ -1,9 +1,11 @@
 <html>   
 <body>
   <h1> <p align ="center"> Hello!! 👋🏻✌🏻 😁😁<br> I am Anurag Pathak </p> </h1>
-  <img src = https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/BANNER.png />
-  https://api.daily.dev/devcards/4f8af0cadd45413fb3c02434a170b417.png?r=xu4
-  <p align = center > 
+  <p align=center> 
+    <a href = "https://app.daily.dev/ANURAGPATHAK">
+      <img src="https://api.daily.dev/devcards/4f8af0cadd45413fb3c02434a170b417.png?r=xu4" width="400"/>
+    </a>
+    <br>
     <a href = https://www.linkedin.com/in/anurag-pathak-41807b17a > 
     <img src = https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/icons8-linkedin.svg />
     </a> 
@@ -29,17 +31,12 @@
   </p>
   <br>
   <p align = center >
-    I am an <b> open source enthusiast </b>. I am in my <b> freshman year </b>  of <b> Btech </b>.<br>
-    I am pursuing my Btech from <b> GL Bajaj Institute of Technology and Management, Greater Noida </b>.
-    <br>
-    <br>
-    I contribute in Java applications, Web-Technologies, and C++ applications. 
-    <br>
-    <br>
+    I am an <b> open source enthusiast </b>. I am into WEB DEVELOPMENT, MACHINE LEARNING, BACKEND APPLICATIONS, REST APIs.<br>
+    Checkout my Projects and star my repos if you like it.
   </p>
-  <p align = center >
+<!--   <p align = center >
     <img src = "https://github-readme-stats-anurag-pathak.vercel.app/api?username=ANURAG-PATHAK&show_icons=true&hide_border=true" />
     <img src = https://github-readme-stats-anurag-pathak.vercel.app/api/top-langs?username=ANURAG-PATHAK&layout=compact />
-  </p>
+  </p> -->
 </body>
 </html>
