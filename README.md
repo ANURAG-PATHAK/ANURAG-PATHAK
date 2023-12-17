@@ -22,7 +22,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-pathak" alt="anurag-pathak" /></a> </p>
 
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://anurag-pathak.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [anurag-pathak.hashnode.dev](https://anurag-pathak.hashnode.dev/)
