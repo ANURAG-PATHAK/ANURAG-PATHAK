@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **<pathakanurag605@gmail.com>**
 
-- 📄 Know about my experiences [Resume](https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/anurag_pathak_resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/Anurag_Pathak_SDE_Resume.pdf)
 
 - ⚡ Fun fact **I am very Rich**
 
